@@ -16,3 +16,4 @@ openssl dhparam -in ffdhe3072.pem -text -noout | head -3
 
 I then took screenshots for the Task 0 requirement of the python and openssl version, and the pip show cryptography pytest
 
+All files are in the same folder with the exception of the tests in task 4 which are in a folder named tests
